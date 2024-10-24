@@ -1,0 +1,16 @@
+My Index:
+1, 2, 3, 0
+
+PixelVal shape:
+4, 4
+
+Grading:
+1, 1, 0, 0
+
+ImageResultShape:
+700, 700, 3
+
+Cords:
+[175, 175], [np.int64(262), 87], [np.int64(437), 262], [np.int64(612), 437], [np.int64(87), 612]
+
+Final Score: 50.00%
